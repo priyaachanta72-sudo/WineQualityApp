@@ -1,0 +1,3 @@
+git add requirements.txt
+git commit -m "Remove pickle from requirements.txt"
+git push origin main
